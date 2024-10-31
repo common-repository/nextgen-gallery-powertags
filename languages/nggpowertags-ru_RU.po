@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mauro Mascia <info@masciamauro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Any"
+msgstr "Любые"
+
+msgid "Show All"
+msgstr "Показать все"
+
+msgid "Show All Categories"
+msgstr "Показать все категории"
+
+msgid "All Categories"
+msgstr "Все категории"
+
+msgid "All Tags"
+msgstr "Все тэги"
+
+msgid "Birthday"
+msgstr "День рождения"
+
